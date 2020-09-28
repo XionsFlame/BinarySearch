@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jamesh\\source\\repos\\BinarySearchTree\\BinarySearchTree.csproj",
-      "projectName": "BinarySearchTree",
-      "projectPath": "C:\\Users\\Jamesh\\source\\repos\\BinarySearchTree\\BinarySearchTree.csproj",
+      "projectUniqueName": "C:\\Users\\Jamesh\\source\\repos\\BinarySearchTree\\BinarySearch.csproj",
+      "projectName": "BinarySearch",
+      "projectPath": "C:\\Users\\Jamesh\\source\\repos\\BinarySearchTree\\BinarySearch.csproj",
       "packagesPath": "C:\\Users\\Jamesh\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Jamesh\\source\\repos\\BinarySearchTree\\obj\\",
       "projectStyle": "PackageReference",

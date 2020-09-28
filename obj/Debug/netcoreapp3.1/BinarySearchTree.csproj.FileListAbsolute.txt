@@ -1,0 +1,13 @@
+C:\Users\Jamesh\source\repos\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.exe
+C:\Users\Jamesh\source\repos\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.deps.json
+C:\Users\Jamesh\source\repos\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.runtimeconfig.json
+C:\Users\Jamesh\source\repos\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.runtimeconfig.dev.json
+C:\Users\Jamesh\source\repos\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.dll
+C:\Users\Jamesh\source\repos\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.pdb
+C:\Users\Jamesh\source\repos\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.csprojAssemblyReference.cache
+C:\Users\Jamesh\source\repos\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\Jamesh\source\repos\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.AssemblyInfo.cs
+C:\Users\Jamesh\source\repos\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\Jamesh\source\repos\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.dll
+C:\Users\Jamesh\source\repos\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.pdb
+C:\Users\Jamesh\source\repos\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.genruntimeconfig.cache
